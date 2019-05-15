@@ -1,0 +1,25 @@
+.UlNotficationsPage
+{
+    list-style-type: none;
+    margin: 20px;
+}
+
+
+.DeleteNotficationButton
+{
+    padding: 8px;
+    margin: 4px;
+}
+
+.DeleteNotficationButton
+{
+    background-color: red;
+    border: none;
+    padding: 8px;
+}
+
+.divNotficationPage
+{
+    margin: 40px;
+    padding: 16px 12px;
+}

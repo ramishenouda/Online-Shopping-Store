@@ -1,0 +1,54 @@
+.HomePageProductsTable
+{
+    width: 800px;
+
+}
+
+.UlHomePage
+{
+    list-style-type: none;
+}
+
+.LiHomePageProductName
+{
+    border: 1px solid black;
+    padding: 2px;
+    font-family:  sans-serif;
+    font-size: 16px;
+}
+
+.LiHomePage
+{
+    padding: 2px;
+    font-family:  sans-serif;
+    font-size: 16px;
+}
+
+.BuyButtonHomePage, .FavouriteButtonHomePage
+{
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    width: 100%;
+    margin: 2px;
+    padding: 7px 18px;
+}
+
+.BuyButtonHomePage:hover, .FavouriteButtonHomePage:hover
+{
+    background-color: #45a049;
+}
+
+img
+{
+    width: 400px;
+    height: 400px;
+}
+
+.ThisIsYourProductLI
+{
+    padding-top : 5px;
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+}
