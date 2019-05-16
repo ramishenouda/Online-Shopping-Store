@@ -18,7 +18,7 @@ Notification system (notify the users if someone bought something from them)<br/
     - ![XAMPP STARTING SERVER PHOTO](assets/StartServers.PNG)
     - ![XAMPP SERVER STARTED PHOTO](assets/ServersStarted.PNG)
 - Now you are ready to Import the database 
-
+    - Click on admin button or navigate to http://localhost/phpmyadmin/ <br/> ![OpeningphpMyAdmin](assets/OpeningphpMyAdmin.PNG)
 ## Running the tests
 
 Explain how to run the automated tests for this system
