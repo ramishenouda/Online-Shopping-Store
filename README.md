@@ -12,13 +12,8 @@ Notification system (notify the users if someone bought something from them)<br/
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
+1. Download the repository by Clicking on "Clone or Download" Button then Click on Download ZIP <br/>
+1. Install XAMPP
 
 And repeat
 
