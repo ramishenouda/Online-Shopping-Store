@@ -16,59 +16,18 @@ Notification system (notify the users if someone bought something from them)<br/
 - Install XAMPP
 - Start Apache & MySQL By Clicking on Those 2 Buttons
     - ![XAMPP STARTING SERVER PHOTO](assets/StartServers.PNG)
-    - ![XAMPP SERVER STARTED PHOTO](assets/ServersStarted.PNG)
+    - Make sure the start button changed to stop <br/>![XAMPP SERVER STARTED PHOTO](assets/ServersStarted.PNG)
 - Now you are ready to Import the database 
     - Click on admin button or navigate to http://localhost/phpmyadmin/ <br/> ![OpeningphpMyAdmin](assets/OpeningphpMyAdmin.PNG)
-## Running the tests
+    - We need to create a database inorder to import our database,<br/> ![CreateDatabase](assets/CreateDatabase.PNG)
+    - Write a name and then click create,<br/> ![CreateDatabase2](assets/CreateDatabase2.PNG)
+        <br/>![CreateDatabase3](assets/CreateDatabase3.PNG)
+    - You will see your new database on the left hierarchy, click on it <br/>![NavigateToDatabase](assets/NaviagteToTheDatabase.PNG)
+    - Now we need to import the files to our new database, click on import button ![ImportDatabase1](assets/ImportDatabase1.PNG)
+        </br> Click on choose file then choose the SQL file![ImportDatabase2](assets/ImportDatabase2.PNG)
+        </br>![ImportDatabase3](assets/ImportDatabase3.PNG)
+        </br>Scroll down then click Go button </br>![ImportDatabase4](assets/ImportDatabase4.PNG)
+- Now your new database should look like this </br> ![FinalResult](assets/FinalResultOfImportingDatabase.PNG) 
+- **Now you are ready to explore the site**
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+-**Feel Free to check this [Link](https://drive.google.com/open?id=12pTv_PFgcbE0_IcQAR6IdonmZhLHbMVZ) for Full Porject Info**
