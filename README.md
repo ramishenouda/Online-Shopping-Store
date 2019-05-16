@@ -14,14 +14,10 @@ Notification system (notify the users if someone bought something from them)<br/
 
 1. Download the repository by Clicking on "Clone or Download" Button then Click on Download ZIP <br/>
 1. Install XAMPP
-1. Start Apache & MySQL By Clicking on Those 2 Buttons
-![XAMPP STARTING SERVER PHOTO](https://drive.google.com/open?id=1bxuEqrUKicslntSmcwr0BdZPSGQ39hbD)
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+1. Start Apache & MySQL By Clicking on Those 2 Buttons<br/>
+![XAMPP STARTING SERVER PHOTO](https://drive.google.com/open?id=1bxuEqrUKicslntSmcwr0BdZPSGQ39hbD)<br/>
+![XAMPP SERVER STARTED PHOTO](https://drive.google.com/open?id=1bxuEqrUKicslntSmcwr0BdZPSGQ39hbD)<br/>
+1.Now you are ready to create the database 
 
 ## Running the tests
 
