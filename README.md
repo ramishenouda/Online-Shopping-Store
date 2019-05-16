@@ -15,7 +15,7 @@ Notification system (notify the users if someone bought something from them)<br/
 - Download the repository by Clicking on "Clone or Download" Button then Click on Download ZIP
 - Install XAMPP
 - Start Apache & MySQL By Clicking on Those 2 Buttons
-    - ![XAMPP STARTING SERVER PHOTO](ramishenouda/Online-Shopping-Store/master/assets/StartServers.PNG)
+    - ![XAMPP STARTING SERVER PHOTO](assets/StartServers.PNG)
     - ![XAMPP SERVER STARTED PHOTO](assets/ServersStarted.PNG)
 - Now you are ready to Import the database 
 
