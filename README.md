@@ -5,17 +5,10 @@ Profile system,
 CRUD operations for products and users (only admins can delete or edit users), 
 Notification system (notify the users if someone bought something from them)<br/>
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+[XAMPP](https://www.apachefriends.org/download.html) - The PHP development environment
 
 ### Installing
 
