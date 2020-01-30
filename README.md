@@ -5,6 +5,7 @@ Profile system,
 CRUD operations for products and users (only admins can delete or edit users), 
 Notification system (notify the users if someone bought something from them)<br/>
 
+### -**More about this project [Link](https://drive.google.com/open?id=12pTv_PFgcbE0_IcQAR6IdonmZhLHbMVZ)**
 
 ### Prerequisites
 
@@ -29,5 +30,3 @@ Notification system (notify the users if someone bought something from them)<br/
         </br>Scroll down then click Go button </br>![ImportDatabase4](assets/ImportDatabase4.PNG)
 - Now your new database should look like this </br> ![FinalResult](assets/FinalResultOfImportingDatabase.PNG) 
 - **Now you are ready to explore the site**
-
--**Feel Free to check this [Link](https://drive.google.com/open?id=12pTv_PFgcbE0_IcQAR6IdonmZhLHbMVZ) for Full Porject Info**
